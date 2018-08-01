@@ -1,2 +1,3 @@
 # Static_Portfolio
-HTML/CSS Page
+HTML/CSS Page With a google Api Map attached
+FULL RESPONSIVE
